@@ -49,7 +49,7 @@ El objetivo es practicar conceptos básicos de **backend**, **bases de datos** y
 
 2. Abrir en el navegador:
 
-  http://localhost/proyecto1
+  http://localhost/proyecto01
 
   http://localhost/proyecto2
 
